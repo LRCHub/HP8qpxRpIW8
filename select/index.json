@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "NOT ME",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-02T11:40:15.580728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/01_Why_Not_Me_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/02_Why_Not_Me_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who Not Me",
+      "artist": "Ludacris feat. Small World & Dolla Boy",
+      "has_synced": true,
+      "path": "select/03_Who_Not_Me_Ludacris_feat._Small_World_&_Dolla_Boy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who Not Me (feat. Small World and Dolla Boy)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/04_Who_Not_Me_(feat._Small_World_and_Dolla_Boy)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She's Not Me",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_She's_Not_Me_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That's Not Me",
+      "artist": "Huey Lewis & The News",
+      "has_synced": false,
+      "path": "select/06_That's_Not_Me_Huey_Lewis_&_The_News.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Ginuwine",
+      "has_synced": false,
+      "path": "select/07_Why_Not_Me_Ginuwine.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(It's Not Me) Talking",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/08_(It's_Not_Me)_Talking_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That's Not Me",
+      "artist": "Hercules & Love Affair",
+      "has_synced": true,
+      "path": "select/09_That's_Not_Me_Hercules_&_Love_Affair.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That’s Not Me",
+      "artist": "Hercules and Love Affair",
+      "has_synced": true,
+      "path": "select/10_That’s_Not_Me_Hercules_and_Love_Affair.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She's Not Me - Pt. 1 & 2",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/11_She's_Not_Me_-_Pt._1_&_2_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She’s Not Me, Pt. 1 & 2",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/12_She’s_Not_Me,_Pt._1_&_2_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That's Not Me",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/13_That's_Not_Me_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Got the Blues, Not Me...",
+      "artist": "David Lee Roth",
+      "has_synced": false,
+      "path": "select/14_You_Got_the_Blues,_Not_Me..._David_Lee_Roth.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(It’s Not Me) Talking",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/15_(It’s_Not_Me)_Talking_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Them Not Me",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/16_Them_Not_Me_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Why Not Me",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/17_Why_Not_Me_Within_Temptation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOT ME",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_NOT_ME_ILLIT.txt"
+    }
+  ]
+}
